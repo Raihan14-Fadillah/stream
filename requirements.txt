@@ -1,3 +1,4 @@
-streamlit
-pandas==2.3.1
-pickle
+streamlit==1.27.2
+pandas==1.5.3
+pickle==4.0
+python==3.10.11
